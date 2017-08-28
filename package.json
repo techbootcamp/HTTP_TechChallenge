@@ -1,0 +1,23 @@
+{
+  "name": "HTTP_TechChallenge",
+  "version": "1.0.0",
+  "description": "Starting point for HTTP technical challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techbootcamp/HTTP_TechChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techbootcamp/HTTP_TechChallenge/issues"
+  },
+  "homepage": "https://github.com/techbootcamp/HTTP_TechChallenge#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.2"
+  }
+}
